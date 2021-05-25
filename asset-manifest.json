@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danimacinnes/static/css/main.a0a473ba.chunk.css",
+    "main.js": "/danimacinnes/static/js/main.11eff41f.chunk.js",
+    "main.js.map": "/danimacinnes/static/js/main.11eff41f.chunk.js.map",
+    "runtime-main.js": "/danimacinnes/static/js/runtime-main.77a17b76.js",
+    "runtime-main.js.map": "/danimacinnes/static/js/runtime-main.77a17b76.js.map",
+    "static/js/2.d239c070.chunk.js": "/danimacinnes/static/js/2.d239c070.chunk.js",
+    "static/js/2.d239c070.chunk.js.map": "/danimacinnes/static/js/2.d239c070.chunk.js.map",
+    "static/js/3.65824347.chunk.js": "/danimacinnes/static/js/3.65824347.chunk.js",
+    "static/js/3.65824347.chunk.js.map": "/danimacinnes/static/js/3.65824347.chunk.js.map",
+    "index.html": "/danimacinnes/index.html",
+    "static/css/main.a0a473ba.chunk.css.map": "/danimacinnes/static/css/main.a0a473ba.chunk.css.map",
+    "static/js/2.d239c070.chunk.js.LICENSE.txt": "/danimacinnes/static/js/2.d239c070.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77a17b76.js",
+    "static/js/2.d239c070.chunk.js",
+    "static/css/main.a0a473ba.chunk.css",
+    "static/js/main.11eff41f.chunk.js"
+  ]
+}
