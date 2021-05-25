@@ -7,18 +7,18 @@ import Education from "./Education";
 
 const Pages = ({ user }) => {
   return (
-    <Router>
+    <Router basename="/danimacinnes">
       <Switch>
-        <Route exact path="/danimacinnes/">
+        <Route exact path="/">
           <Me user={user} />
         </Route>
-        <Route path="/danimacinnes/projects">
+        <Route path="/projects">
           <Projects user={user} />
         </Route>
-        <Route path="/danimacinnes/work">
+        <Route path="/work">
           <Work user={user} />
         </Route>
-        <Route path="/danimacinnes/education">
+        <Route path="/education">
           <Education user={user} />
         </Route>
       </Switch>
